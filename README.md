@@ -6,13 +6,13 @@
 - 🔭 I’m currently working on [SrigngBoot Web Application]([https://github.com/manjunath528/SQL_projects])
 - 🌱 I’m currently learning **Tableau, Snowflake**
 
-- 👨‍💻 All of my projects are available at [My_Resume](https://github.com/manjunath528?tab=repositories)
+- 👨‍💻 All of my projects are available at [My_Repositories](https://github.com/manjunath528?tab=repositories)
 
 - 💬 Ask me about **PowerBI, SQL, Python, Java , SpringBoot , Snowflake**
 
 - 📫 How to reach me **manjunathreddybollam@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1dfl97jRzsHFRr-De2Tyceoq7HFcfQZlG/view?usp=share_link)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1dfl97jRzsHFRr-De2Tyceoq7HFcfQZlG/view?usp=share_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
