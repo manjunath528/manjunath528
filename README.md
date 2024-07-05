@@ -9,12 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manjunath528?tab=repositories](https://github.com/manjunath528?tab=repositories)
 
-- 💬 Ask me about **PowerBI, SQL, Python, Java , SpringBoot**
+- 💬 Ask me about **PowerBI, SQL, Python, Java , SpringBoot , Snowflake**
 
-- 📫 How to reach me **bmanjunath505@gmail.com**
+- 📫 How to reach me **manjunathreddybollam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dfl97jRzsHFRr-De2Tyceoq7HFcfQZlG/view?usp=share_link](https://drive.google.com/file/d/1dfl97jRzsHFRr-De2Tyceoq7HFcfQZlG/view?usp=share_link)
-
+- 📄 Know about my experiences [Bollam_Resume.pdf](https://github.com/user-attachments/files/16113003/Bollam_Resume.pdf)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
