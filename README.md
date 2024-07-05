@@ -1,5 +1,5 @@
-![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)<h1 align="center">Hi 👋, I'm Manjunath Bollam</h1>
-<h3 align="center">A passionate Data Analyst from Germany</h3>
+![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)<h1 align="center">Hi 👋, I'm Manjunath Reddy Bollam</h1>
+<h3 align="center">Versatile Professional with Expertise in Java Development, Data Analysis, and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
