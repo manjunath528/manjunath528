@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
-- 🔭 I’m currently working on [SQL_Projects](https://github.com/manjunath528/SQL_projects)
-
+- 🔭 I’m currently working on [SrigngBoot Web Application]([https://github.com/manjunath528/SQL_projects])
 - 🌱 I’m currently learning **Tableau, Snowflake**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manjunath528?tab=repositories](https://github.com/manjunath528?tab=repositories)
+- 👨‍💻 All of my projects are available at [My_Resume](https://github.com/manjunath528?tab=repositories)
 
 - 💬 Ask me about **PowerBI, SQL, Python, Java , SpringBoot , Snowflake**
 
