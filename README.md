@@ -1,28 +1,45 @@
-![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)<h1 align="center">Hi 👋, I'm Manjunath Reddy Bollam</h1>
-<h3 align="center">Versatile Professional with Expertise in Java Development, Data Analysis, and Engineering</h3>
+![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
+
+# Hi there! 👋 I'm Manjunath Bollam
+
+### Versatile Professional with Expertise in Java Development, Data Analysis, and Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
-- 🔭 I’m currently working on [SrigngBoot Web Application](https://github.com/manjunath528/springboot-application)
-- 🌱 I’m currently learning **Tableau, Snowflake**
+- 🔭 I’m currently working on [SpringBoot Web Application](https://github.com/manjunath528/springboot-application)
+- 🌱 I’m currently learning **AWS**
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/manjunath528?tab=repositories)
+- 💬 Ask me about **Power BI, SQL, Python, Java, Spring Boot, Snowflake**
+- 📫 How to reach me: **manjunathbollam@outlook.com**
 
-- 👨‍💻 All of my projects are available at [My_Repositories](https://github.com/manjunath528?tab=repositories)
+## 🔥 About Me
+A results-driven professional with expertise in data analytics and data engineering. Proficient in building and optimizing data pipelines, analyzing complex datasets, and delivering actionable insights for data-driven decision-making. Experienced in automating ETL processes, enhancing reporting efficiency, and applying analytical techniques to solve complex problems. Passionate about leveraging data and technical expertise to drive business growth and operational efficiency.
 
-- 💬 Ask me about **PowerBI, SQL, Python, Java , SpringBoot , Snowflake**
+## 🛠️ Tech Stack
+- **Programming Languages:** Python, SQL, Java
+- **Data Tools:** Snowflake, PySpark, PostgreSQL, Tableau, Power BI, ETL Pipelines
+- **Development Tools:** Git, Maven, Gradle, Spring Boot, Jupyter Notebook
+- **Cloud Technologies:** AWS
 
-- 📫 How to reach me **manjunathreddybollam@gmail.com**
+## 📄 My Resume
+Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUyoc-wUU0xogA-R21mp2SUBOERg/view?usp=share_link)
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1eBWdL-WsnGsQM7xFi4eROFPUe84fpyQB/view?usp=drivesdk)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-</p>
+## 📫 Connect with Me:
+<a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 Languages and Tools:
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="manjunath528" /></p>
+## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="manjunath528" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath528&" alt="manjunath528" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath528&" alt="GitHub Streak" /></p>
