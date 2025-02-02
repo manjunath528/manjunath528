@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
 - 🔭 I’m currently working on [SpringBoot Web Application](https://github.com/manjunath528/springboot-application)
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS, Spring AI**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/manjunath528?tab=repositories)
 - 💬 Ask me about **Power BI, SQL, Python, Java, Spring Boot, Snowflake**
 - 📫 How to reach me: **manjunathbollam@outlook.com**
