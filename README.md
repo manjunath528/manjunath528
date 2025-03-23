@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/e6799466-703d-43ff-97b9-fe11608e4af2)
 
-# 👋 Hi there! I'm Manjunath Bollam, a Backend Java Developer & Data Engineer passionate about building scalable applications and data-driven solutions.
-
+# 👋 Hi there! I'm Manjunath Bollam
 ### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems🌟
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
@@ -11,19 +10,62 @@
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/manjunath528?tab=repositories)
 - 📫 How to reach me: **manjunathbollam@outlook.com**
 
-## - 🛠 Tech Stack
-🚀 Backend Development
-Languages: Java, Python, SQL
-Frameworks: Spring Boot, Spring MVC, Microservices
-Databases: PostgreSQL, MySQL, AWS RDS (PostgreSQL)
-Security & Authentication: JWT, Spring Security
-DevOps & CI/CD: GitLab, Docker, Gradle, Maven, IntelliJ, Apache Kafka, CI/CD Pipelines
-📊 Data Engineering
-ETL & Data Processing: Apache Airflow, Apache Spark, PySpark
-Databases & Warehouses: PostgreSQL, Snowflake, Redshift, MySQL
-Big Data Tools: Hadoop, Spark, Kafka
-Cloud Technologies: AWS (S3, Glue, Lambda), Docker, Kubernetes
-Data Visualization: Power BI, Tableau
+## 🌱 Tech Stack
+
+### 🚀 **Backend Development**
+- **Languages:**  
+  ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)  
+  ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)  
+  ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
+  
+- **Frameworks:**  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=for-the-badge&logo=spring)  
+  ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-black?style=for-the-badge&logo=spring)  
+  ![Microservices](https://img.shields.io/badge/-Microservices-black?style=for-the-badge&logo=docker)
+
+- **Databases:**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)  
+  ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-black?style=for-the-badge&logo=amazonaws)
+
+- **Security & Authentication:**  
+  ![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=javascript)  
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?style=for-the-badge&logo=spring)
+
+- **DevOps & CI/CD:**  
+  ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)  
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  
+  ![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)  
+  ![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)  
+  ![Apache Kafka](https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apachekafka)  
+  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=for-the-badge&logo=githubactions)  
+
+### 📊 **Data Engineering**
+
+- **ETL & Data Processing:**  
+  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow)  
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=for-the-badge&logo=apachehadoop)  
+  ![PySpark](https://img.shields.io/badge/-PySpark-black?style=for-the-badge&logo=apachehadoop)
+
+- **Databases & Warehouses:**  
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=for-the-badge&logo=snowflake)  
+  ![Redshift](https://img.shields.io/badge/-Redshift-black?style=for-the-badge&logo=amazonaws)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)  
+
+- **Big Data Tools:**  
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=for-the-badge&logo=apachehadoop)  
+  ![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachehadoop)  
+  ![Kafka](https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apachekafka)
+
+- **Cloud Technologies:**  
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)  
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
+
+- **Data Visualization:**  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=for-the-badge&logo=powerbi)  
+  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=tableau)
+
 
 ## 📄 My Resume
 Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUyoc-wUU0xogA-R21mp2SUBOERg/view?usp=share_link)
