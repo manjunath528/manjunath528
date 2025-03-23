@@ -22,9 +22,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Languages** | **Frameworks & Libraries** | **Databases** |
 |---------------|----------------------------|---------------|
-| ![Java](https://img.shields.io/badge/-Java-lightgrey?style=for-the-badge&logo=java) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgrey?style=for-the-badge&logo=spring) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql) |
-| ![Python](https://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=python) | ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-lightgrey?style=for-the-badge&logo=spring) | ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql) |
-| ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=postgresql) | ![Microservices](https://img.shields.io/badge/-Microservices-lightgrey?style=for-the-badge&logo=docker) | ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-lightgrey?style=for-the-badge&logo=amazonaws) |
+| ![Java](https://img.shields.io/badge/-Java?logo=java) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot?logo=spring) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?logo=postgresql) |
+| ![Python](https://img.shields.io/badge/-Python?logo=python) | ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC?logo=spring) | ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql) |
+| ![SQL](https://img.shields.io/badge/-SQL?logo=postgresql) | ![Microservices](https://img.shields.io/badge/-Microservices?logo=docker) | ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS?logo=amazonaws) |
 
 ---
 
@@ -32,12 +32,12 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Security & Authentication** | **DevOps & CI/CD Tools** |
 |-------------------------------|---------------------------|
-| ![JWT](https://img.shields.io/badge/-JWT-lightgrey?style=for-the-badge&logo=javascript) | ![GitLab](https://img.shields.io/badge/-GitLab-lightgrey?style=for-the-badge&logo=gitlab) |
-| ![Spring Security](https://img.shields.io/badge/-Spring%20Security-lightgrey?style=for-the-badge&logo=spring) | ![Docker](https://img.shields.io/badge/-Docker-lightgrey?style=for-the-badge&logo=docker) |
-|                               | ![Gradle](https://img.shields.io/badge/-Gradle-lightgrey?style=for-the-badge&logo=gradle) |
-|                               | ![Maven](https://img.shields.io/badge/-Maven-lightgrey?style=for-the-badge&logo=apachemaven) |
-|                               | ![Apache Kafka](https://img.shields.io/badge/-Kafka-lightgrey?style=for-the-badge&logo=apachekafka) |
-|                               | ![CI/CD](https://img.shields.io/badge/-CI%2FCD-lightgrey?style=for-the-badge&logo=githubactions) |
+| ![JWT](https://img.shields.io/badge/-JWT?logo=javascript) | ![GitLab](https://img.shields.io/badge/-GitLab?logo=gitlab) |
+| ![Spring Security](https://img.shields.io/badge/-Spring%20Security?logo=spring) | ![Docker](https://img.shields.io/badge/-Docker?logo=docker) |
+|                               | ![Gradle](https://img.shields.io/badge/-Gradle?logo=gradle) |
+|                               | ![Maven](https://img.shields.io/badge/-Maven?logo=apachemaven) |
+|                               | ![Apache Kafka](https://img.shields.io/badge/-Kafka?logo=apachekafka) |
+|                               | ![CI/CD](https://img.shields.io/badge/-CI%2FCD?logo=githubactions) |
 
 ---
 
@@ -45,9 +45,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **ETL & Data Processing** | **Databases & Data Warehouses** | **Big Data & Streaming** |
 |---------------------------|---------------------------------|--------------------------|
-| ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-lightgrey?style=for-the-badge&logo=apacheairflow) | ![Snowflake](https://img.shields.io/badge/-Snowflake-lightgrey?style=for-the-badge&logo=snowflake) | ![Hadoop](https://img.shields.io/badge/-Hadoop-lightgrey?style=for-the-badge&logo=apachehadoop) |
-| ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-lightgrey?style=for-the-badge&logo=apachehadoop) | ![Redshift](https://img.shields.io/badge/-Redshift-lightgrey?style=for-the-badge&logo=amazonaws) | ![Spark](https://img.shields.io/badge/-Spark-lightgrey?style=for-the-badge&logo=apachehadoop) |
-| ![PySpark](https://img.shields.io/badge/-PySpark-lightgrey?style=for-the-badge&logo=apachehadoop) | ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql) | ![Kafka](https://img.shields.io/badge/-Kafka-lightgrey?style=for-the-badge&logo=apachekafka) |
+| ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow?logo=apacheairflow) | ![Snowflake](https://img.shields.io/badge/-Snowflake?logo=snowflake) | ![Hadoop](https://img.shields.io/badge/-Hadoop?logo=apachehadoop) |
+| ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark?logo=apachehadoop) | ![Redshift](https://img.shields.io/badge/-Redshift?logo=amazonaws) | ![Spark](https://img.shields.io/badge/-Spark?logo=apachehadoop) |
+| ![PySpark](https://img.shields.io/badge/-PySpark?logo=apachehadoop) | ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql) | ![Kafka](https://img.shields.io/badge/-Kafka?logo=apachekafka) |
 
 ---
 
@@ -55,9 +55,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Cloud Technologies** | **Data Visualization** |
 |------------------------|------------------------|
-| ![AWS](https://img.shields.io/badge/-AWS-lightgrey?style=for-the-badge&logo=amazonaws) | ![Power BI](https://img.shields.io/badge/-Power%20BI-lightgrey?style=for-the-badge&logo=powerbi) |
-| ![Docker](https://img.shields.io/badge/-Docker-lightgrey?style=for-the-badge&logo=docker) | ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?style=for-the-badge&logo=tableau) |
-| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightgrey?style=for-the-badge&logo=kubernetes) |                        |
+| ![AWS](https://img.shields.io/badge/-AWS?logo=amazonaws) | ![Power BI](https://img.shields.io/badge/-Power%20BI?logo=powerbi) |
+| ![Docker](https://img.shields.io/badge/-Docker?logo=docker) | ![Tableau](https://img.shields.io/badge/-Tableau?logo=tableau) |
+| ![Kubernetes](https://img.shields.io/badge/-Kubernetes?logo=kubernetes) |                        |
 
 ---
 
@@ -72,19 +72,6 @@ Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUy
 
 ---
 
-## 🚀 Languages and Tools:
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a> 
-</p>
-
----
 
 ## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
@@ -93,4 +80,3 @@ Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUy
 
 
 ---
-
