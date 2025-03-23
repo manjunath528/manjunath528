@@ -3,6 +3,15 @@
 # 👋 Hi there! I'm Manjunath Bollam
 ### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems🌟
 
+## 💬 Ask Me About
+- **Power BI**
+- **SQL**
+- **Python**
+- **Snowflake**
+- **PySpark**
+- **Spring Boot**  
+- **Java Development**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
 - 🔭 I’m currently working on [SpringBoot Web Application](https://github.com/manjunath528/springboot-application)
