@@ -91,14 +91,4 @@ Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUy
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunath528&" alt="GitHub Streak" /></p>
-
 ---
-
-### **🔧 What’s New:**
-- Added side-by-side **Tech Tools** layout for better visual clarity and grouping.
-- Improved **tech section grouping** for a streamlined look.
-
----
-
-Feel free to update the links (e.g., for LinkedIn or resume) with your own credentials.
