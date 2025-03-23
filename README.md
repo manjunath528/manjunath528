@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
+![MasterHead](https://drive.google.com/file/d/1sTfrKzlxhM1ureEwAmwzMkQYLcgHEM3Z/view?usp=share_link)
 
 # Hi there! 👋 I'm Manjunath Bollam
 
