@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1sTfrKzlxhM1ureEwAmwzMkQYLcgHEM3Z/view?usp=sharing)
+![MasterHead](https://github.com/user-attachments/assets/e6799466-703d-43ff-97b9-fe11608e4af2)
 
 # Hi there! 👋 I'm Manjunath Bollam
 
