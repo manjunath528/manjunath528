@@ -22,9 +22,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Languages** | **Frameworks & Libraries** | **Databases** |
 |---------------|----------------------------|---------------|
-| ![Java](https://img.shields.io/badge/-Java?logo=java) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot?logo=spring) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL?logo=postgresql) |
-| ![Python](https://img.shields.io/badge/-Python?logo=python) | ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC?logo=spring) | ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql) |
-| ![SQL](https://img.shields.io/badge/-SQL?logo=postgresql) | ![Microservices](https://img.shields.io/badge/-Microservices?logo=docker) | ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS?logo=amazonaws) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"/> Spring Boot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring MVC" width="20" height="20"/> Spring MVC | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="20" height="20"/> SQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Microservices" width="20" height="20"/> Microservices | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS RDS" width="20" height="20"/> AWS RDS |
 
 ---
 
@@ -32,12 +32,12 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Security & Authentication** | **DevOps & CI/CD Tools** |
 |-------------------------------|---------------------------|
-| ![JWT](https://img.shields.io/badge/-JWT?logo=javascript) | ![GitLab](https://img.shields.io/badge/-GitLab?logo=gitlab) |
-| ![Spring Security](https://img.shields.io/badge/-Spring%20Security?logo=spring) | ![Docker](https://img.shields.io/badge/-Docker?logo=docker) |
-|                               | ![Gradle](https://img.shields.io/badge/-Gradle?logo=gradle) |
-|                               | ![Maven](https://img.shields.io/badge/-Maven?logo=apachemaven) |
-|                               | ![Apache Kafka](https://img.shields.io/badge/-Kafka?logo=apachekafka) |
-|                               | ![CI/CD](https://img.shields.io/badge/-CI%2FCD?logo=githubactions) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JWT" width="20" height="20"/> JWT | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20"/> GitLab |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Security" width="20" height="20"/> Spring Security | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker |
+|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="20" height="20"/> Gradle |
+|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="20" height="20"/> Maven |
+|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Apache Kafka" width="20" height="20"/> Kafka |
+|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="CI/CD" width="20" height="20"/> CI/CD |
 
 ---
 
@@ -45,9 +45,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **ETL & Data Processing** | **Databases & Data Warehouses** | **Big Data & Streaming** |
 |---------------------------|---------------------------------|--------------------------|
-| ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow?logo=apacheairflow) | ![Snowflake](https://img.shields.io/badge/-Snowflake?logo=snowflake) | ![Hadoop](https://img.shields.io/badge/-Hadoop?logo=apachehadoop) |
-| ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark?logo=apachehadoop) | ![Redshift](https://img.shields.io/badge/-Redshift?logo=amazonaws) | ![Spark](https://img.shields.io/badge/-Spark?logo=apachehadoop) |
-| ![PySpark](https://img.shields.io/badge/-PySpark?logo=apachehadoop) | ![MySQL](https://img.shields.io/badge/-MySQL?logo=mysql) | ![Kafka](https://img.shields.io/badge/-Kafka?logo=apachekafka) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="Apache Airflow" width="20" height="20"/> Apache Airflow | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="20" height="20"/> Snowflake | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="20" height="20"/> Hadoop |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="20" height="20"/> Apache Spark | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Redshift" width="20" height="20"/> Redshift | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="20" height="20"/> Kafka |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" width="20" height="20"/> PySpark | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Spark" width="20" height="20"/> Spark |
 
 ---
 
@@ -55,9 +55,9 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 | **Cloud Technologies** | **Data Visualization** |
 |------------------------|------------------------|
-| ![AWS](https://img.shields.io/badge/-AWS?logo=amazonaws) | ![Power BI](https://img.shields.io/badge/-Power%20BI?logo=powerbi) |
-| ![Docker](https://img.shields.io/badge/-Docker?logo=docker) | ![Tableau](https://img.shields.io/badge/-Tableau?logo=tableau) |
-| ![Kubernetes](https://img.shields.io/badge/-Kubernetes?logo=kubernetes) |                        |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20"/> AWS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="20" height="20"/> Power BI |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="20" height="20"/> Tableau |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="20" height="20"/> Kubernetes |                        |
 
 ---
 
@@ -77,6 +77,5 @@ Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUy
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
 
 ---
