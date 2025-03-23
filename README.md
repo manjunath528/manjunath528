@@ -1,25 +1,29 @@
 ![MasterHead](https://github.com/user-attachments/assets/e6799466-703d-43ff-97b9-fe11608e4af2)
 
-# Hi there! 👋 I'm Manjunath Bollam
+# 👋 Hi there! I'm Manjunath Bollam, a Backend Java Developer & Data Engineer passionate about building scalable applications and data-driven solutions.
 
-### Versatile Professional with Expertise in Java Development, Data Analysis, and Engineering
+### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems🌟
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunath528&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath528" /> </p>
 
 - 🔭 I’m currently working on [SpringBoot Web Application](https://github.com/manjunath528/springboot-application)
-- 🌱 I’m currently learning **AWS, Spring AI**
+- 🌱 I’m currently learning **AWS, Spring AI, Airflow**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/manjunath528?tab=repositories)
-- 💬 Ask me about **Power BI, SQL, Python, Java, Spring Boot, Snowflake**
 - 📫 How to reach me: **manjunathbollam@outlook.com**
 
-## 🔥 About Me
-A results-driven professional with expertise in data analytics and data engineering. Proficient in building and optimizing data pipelines, analyzing complex datasets, and delivering actionable insights for data-driven decision-making. Experienced in automating ETL processes, enhancing reporting efficiency, and applying analytical techniques to solve complex problems. Passionate about leveraging data and technical expertise to drive business growth and operational efficiency.
-
-## 🛠️ Tech Stack
-- **Programming Languages:** Python, SQL, Java
-- **Data Tools:** Snowflake, PySpark, PostgreSQL, Tableau, Power BI, ETL Pipelines
-- **Development Tools:** Git, Maven, Gradle, Spring Boot, Jupyter Notebook
-- **Cloud Technologies:** AWS
+## - 🛠 Tech Stack
+🚀 Backend Development
+Languages: Java, Python, SQL
+Frameworks: Spring Boot, Spring MVC, Microservices
+Databases: PostgreSQL, MySQL, AWS RDS (PostgreSQL)
+Security & Authentication: JWT, Spring Security
+DevOps & CI/CD: GitLab, Docker, Gradle, Maven, IntelliJ, Apache Kafka, CI/CD Pipelines
+📊 Data Engineering
+ETL & Data Processing: Apache Airflow, Apache Spark, PySpark
+Databases & Warehouses: PostgreSQL, Snowflake, Redshift, MySQL
+Big Data Tools: Hadoop, Spark, Kafka
+Cloud Technologies: AWS (S3, Glue, Lambda), Docker, Kubernetes
+Data Visualization: Power BI, Tableau
 
 ## 📄 My Resume
 Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUyoc-wUU0xogA-R21mp2SUBOERg/view?usp=share_link)
