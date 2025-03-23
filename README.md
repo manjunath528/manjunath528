@@ -61,9 +61,19 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 ---
 
-## 📄 My Resume
+## 📄 My Resumes
 
-Check out my professional resume [here](https://drive.google.com/file/d/1rKboiUyoc-wUU0xogA-R21mp2SUBOERg/view?usp=share_link)
+I have prepared two versions of my resume based on the different job roles I am applying for:
+
+1. **[Java Developer Resume](https://drive.google.com/file/d/1s0hKBV_x5cF3AZMPJ9QGIZWGSGPPawbq/view?usp=sharing)**  
+   - Focuses on backend development, Java technologies, Spring Boot, and database management.
+   - **Key Skills**: Java, Spring Boot, Microservices, PostgreSQL, AWS, GitLab, Docker.
+
+2. **[Data Analyst & Data Engineer Resume](https://drive.google.com/file/d/1bkj3WDFTaUU2mmKVKoQeIwFrvdP12RfF/view?usp=sharing)**  
+   - Focuses on data engineering, analytics, and ETL processes.
+   - **Key Skills**: Python, PySpark, Apache Kafka, AWS, Snowflake, Power BI, Tableau.
+
+You can access the respective resumes via the links above to explore more about my experience and qualifications in each domain.
 
 ---
 
