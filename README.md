@@ -69,7 +69,7 @@ I have prepared two versions of my resume based on the different job roles I am 
    - Focuses on backend development, Java technologies, Spring Boot, and database management.
    - **Key Skills**: Java, Spring Boot, Microservices, PostgreSQL, AWS, GitLab, Docker.
 
-2. **[Data Analyst & Data Engineer Resume](https://drive.google.com/file/d/1bkj3WDFTaUU2mmKVKoQeIwFrvdP12RfF/view?usp=sharing)**  
+2. **[Data Analyst & Data Engineer Resume](https://drive.google.com/file/d/1s073kC-N8PXXVO3XX7C9GB0b7EOUjOQ3/view?usp=sharing)**  
    - Focuses on data engineering, analytics, and ETL processes.
    - **Key Skills**: Python, PySpark, Apache Kafka, AWS, Snowflake, Power BI, Tableau.
 
