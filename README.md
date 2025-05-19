@@ -1,4 +1,4 @@
-![MasterHead]((https://github.com/user-attachments/assets/d2345577-f07c-4474-b9db-943830c0b867)
+![MasterHead](https://github.com/user-attachments/assets/d2345577-f07c-4474-b9db-943830c0b867)
 
 # 👋 Hi there! I'm Manjunath Reddy Bollam
 ### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems 🌟
