@@ -12,7 +12,7 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 - 🌱 **Currently learning:** **AWS**, **Spring AI**, **Apache Airflow**
 - 👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/manjunath528?tab=repositories)
 - 💬 **Ask me about:** **Power BI**, **SQL**, **Python**, **Snowflake**, **PySpark**, **Spring Boot**, **Java Development**
-- 📫 **Reach me at:** **manjunathbollam@outlook.com**
+- 📫 **Reach me at:** **manjunathreddybollam@outlook.com**
 
 ---
 
