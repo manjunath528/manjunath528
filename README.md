@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/e6799466-703d-43ff-97b9-fe11608e4af2)
 
-# 👋 Hi there! I'm Manjunath Bollam
+# 👋 Hi there! I'm Manjunath Reddy Bollam
 ### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems 🌟
 
 ---
