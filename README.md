@@ -65,7 +65,7 @@ I'm a **Backend Java Developer** with a focus on **Data Engineering**. I special
 
 I have prepared two versions of my resume based on the different job roles I am applying for:
 
-1. **[Java Developer Resume](https://drive.google.com/file/d/1s0hKBV_x5cF3AZMPJ9QGIZWGSGPPawbq/view?usp=sharing)**  
+1. **[Java Developer Resume](https://drive.google.com/file/d/1GhzCVTUPskWyiPB7n6pwm01tWzMML0C3/view?usp=sharing)**  
    - Focuses on backend development, Java technologies, Spring Boot, and database management.
    - **Key Skills**: Java, Spring Boot, Microservices, PostgreSQL, AWS, GitLab, Docker.
 
