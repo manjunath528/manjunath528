@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Manjunath Reddy Bollam
 
-**Backend Software Engineer | Java | Spring Boot | Microservices | Data Analytics**
+**Backend Software Engineer | Java | Spring Boot | Microservices**
 
 ---
 
