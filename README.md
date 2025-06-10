@@ -1,91 +1,70 @@
 ![MasterHead](https://github.com/user-attachments/assets/d2345577-f07c-4474-b9db-943830c0b867)
 
-# 👋 Hi there! I'm Manjunath Reddy Bollam
-### 🌟 Passionate About Building Scalable Data Solutions and Backend Systems 🌟
+# 👋 Hi, I'm Manjunath Reddy Bollam
+
+**Backend Software Engineer | Java | Spring Boot | Microservices | Data Analytics**
 
 ---
 
-## 📣 About Me
-I'm a **Backend Java Developer** with a focus on **Data Engineering**. I specialize in building scalable backend systems and developing end-to-end data solutions. I thrive in fast-paced environments and am always eager to learn new technologies.
+## About Me
 
-- 🔭 **Currently working on:** [SpringBoot Web Application](https://github.com/manjunath528/springboot-application)
-- 🌱 **Currently learning:** **AWS**, **Spring AI**, **Apache Airflow**
-- 👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/manjunath528?tab=repositories)
-- 💬 **Ask me about:** **Power BI**, **SQL**, **Python**, **Snowflake**, **PySpark**, **Spring Boot**, **Java Development**
-- 📫 **Reach me at:** **manjunathreddybollam@outlook.com**
+I am a backend software engineer with 2 years of experience designing and building scalable backend systems and RESTful APIs. My expertise is in Java, Spring Boot, and microservices architecture, with a strong foundation in data analytics and cloud technologies. I enjoy solving real-world problems through clean code, automation, and continuous learning.
 
----
-
-## 🌱 Tech Stack
-
-### 🚀 **Backend Development**
-
-| **Languages** | **Frameworks & Libraries** | **Databases** |
-|---------------|----------------------------|---------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"/> Spring Boot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring MVC" width="20" height="20"/> Spring MVC | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="20" height="20"/> SQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Microservices" width="20" height="20"/> Microservices | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS RDS" width="20" height="20"/> AWS RDS |
+- 📍 Based in Berlin, Germany
+- 🎓 MSc in Data Analytics, BSBI Berlin (2025)
+- 💬 Reach me: manjunathreddybollam@outlook.com
 
 ---
 
-### 🔐 **Security & Authentication** | 🚀 **DevOps & CI/CD Tools**
+## 🛠️ Tech Stack
 
-| **Security & Authentication** | **DevOps & CI/CD Tools** |
-|-------------------------------|---------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JWT" width="20" height="20"/> JWT | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20"/> GitLab |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Security" width="20" height="20"/> Spring Security | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker |
-|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="20" height="20"/> Gradle |
-|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="20" height="20"/> Maven |
-|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Apache Kafka" width="20" height="20"/> Kafka |
-|                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="CI/CD" width="20" height="20"/> CI/CD |
+**Languages:**  
+`Java`, `Python`, `SQL`
 
----
+**Frameworks & Libraries:**  
+`Spring Boot`, `Spring MVC`, `Spring Security`, `JPA`, `Hibernate`, `Microservices`
 
-### 📊 **Data Engineering**
+**Databases:**  
+`PostgreSQL`, `MySQL`, `MongoDB`, `Snowflake`
 
-| **ETL & Data Processing** | **Databases & Data Warehouses** | **Big Data & Streaming** |
-|---------------------------|---------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="Apache Airflow" width="20" height="20"/> Apache Airflow | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="20" height="20"/> Snowflake | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="20" height="20"/> Hadoop |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="20" height="20"/> Apache Spark | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Redshift" width="20" height="20"/> Redshift | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="20" height="20"/> Kafka |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" width="20" height="20"/> PySpark | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Spark" width="20" height="20"/> Spark |
+**Cloud & DevOps:**  
+`AWS (EC2, S3, RDS, IAM)`, `Docker`, `Kubernetes (basic)`, `GitLab CI/CD`
+
+**Tools:**  
+`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Swagger`
 
 ---
 
-### ☁️ **Cloud Technologies** | 📊 **Data Visualization**
+## 🚀 Featured Projects
 
-| **Cloud Technologies** | **Data Visualization** |
-|------------------------|------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20" height="20"/> AWS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="20" height="20"/> Power BI |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="20" height="20"/> Tableau |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="20" height="20"/> Kubernetes |                        |
-
----
-
-## 📄 My Resumes
-
-I have prepared two versions of my resume based on the different job roles I am applying for:
-
-1. **[Java Developer Resume](https://drive.google.com/file/d/1l7kkBdcz722u-hkLSjQ_ZgarxGhaTRF8/view?usp=share_link)**  
-   - Focuses on backend development, Java technologies, Spring Boot, and database management.
-   - **Key Skills**: Java, Spring Boot, Microservices, PostgreSQL, AWS, GitLab, Docker.
-
-2. **[Data Analyst & Data Engineer Resume](https://drive.google.com/file/d/1stHKRav_HYqpE6HclXShdfvLh7xvaBr4/view?usp=share_link)**  
-   - Focuses on data engineering, analytics, and ETL processes.
-   - **Key Skills**: Python, PySpark, Apache Kafka, AWS, Snowflake, Power BI, Tableau.
-
-You can access the respective resumes via the links above to explore more about my experience and qualifications in each domain.
+- **SpringBoot Web Application:** RESTful web application using Spring Boot and microservices.
+- **IoT-based Gym Management System:** Modular microservices for connected gym ecosystem (Java, Spring Boot, Docker).
+- **Spring Boot Security Platform with JWT:** Secure authentication/authorization with JWT and RBAC.
+- **End-to-End CI/CD on AWS:** Automated build, test, and deploy lifecycle for Java backend apps.
 
 ---
 
-## 📫 Connect with Me:
-<a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+## 📄 Resume
+
+- [Software Enigneer Resume](https://drive.google.com/file/d/1l7kkBdcz722u-hkLSjQ_ZgarxGhaTRF8/view?usp=share_link)
 
 ---
 
+## Connect
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/manjunath-reddy-bollam-29bb69240" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
+
+## GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+*Last updated: June 2025*
