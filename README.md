@@ -46,7 +46,7 @@ I am a backend software engineer with 2 years of experience designing and buildi
 
 ## 📄 Resume
 
-- [Software Enigneer Resume](https://drive.google.com/file/d/1bAjMgMNFb5qrNGWHpP2YOr9hz4vsDdvC/view?usp=sharing)
+- [Software Enigneer Resume](https://drive.google.com/file/d/13icwgRq6VY_5HYjVF9ptdRt-Ewiu39fy/view?usp=sharing)
 
 ---
 
