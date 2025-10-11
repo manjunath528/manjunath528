@@ -31,7 +31,7 @@ I am a backend software engineer with 2 years of experience designing and buildi
 `AWS (EC2, S3, RDS, IAM)`, `Docker`, `Kubernetes (basic)`, `GitLab CI/CD`
 
 **Tools:**  
-`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Swagger`
+`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Swagger`, `OpenAI`
 
 ---
 
