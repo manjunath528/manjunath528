@@ -57,14 +57,3 @@ I am a backend software engineer with 2 years of experience designing and buildi
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunath528&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=manjunath528&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-*Last updated: June 2025*
