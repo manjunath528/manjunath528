@@ -8,8 +8,7 @@
 
 ## About Me
 
-I am a backend software engineer with 2 years of experience designing and building scalable backend systems and RESTful APIs. My expertise is in Java, Spring Boot, and microservices architecture, with a strong foundation in data analytics and cloud technologies. I enjoy solving real-world problems through clean code, automation, and continuous learning.
-
+Backend Engineer with 2+ years of experience designing and building scalable microservice-based systems. Strong background in event-driven architectures, RESTful APIs, PostgreSQL data modeling, and containerized deployments using Docker. Hands-on experience with Kafka-based workflows, CI/CD pipelines, and cloud-native backend services. Passionate about clean code, ownership, and building reliable systems in fast-paced product environments.
 - 📍 Based in Berlin, Germany
 - 🎓 MSc in Data Analytics, BSBI Berlin (2025)
 - 💬 Reach me: manjunathreddybollam@outlook.com
@@ -25,10 +24,10 @@ I am a backend software engineer with 2 years of experience designing and buildi
 `Spring Boot`, `Spring MVC`, `Spring Security`, `JPA`, `Hibernate`, `Microservices`
 
 **Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Snowflake`
+`PostgreSQL`, `MySQL`, `MongoDB`, `Snowflake`, `ElasticSearch`
 
 **Cloud & DevOps:**  
-`AWS (EC2,ECS ,ECR, S3, RDS, IAM)`, `Docker`, `Kubernetes`, `GitLab CI/CD`
+`AWS (EC2,ECS ,ECR, EKS, S3, RDS, IAM)`, `Docker`, `Kubernetes`, `GitLab CI/CD`
 
 **Tools:**  
 `IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Swagger`, `OpenAI`
@@ -38,9 +37,9 @@ I am a backend software engineer with 2 years of experience designing and buildi
 ## 🚀 Featured Projects
 
 - **SpringBoot Web Application:** RESTful web application using Spring Boot and microservices.
-- **IoT-based Gym Management System:** Modular microservices for connected gym ecosystem (Java, Spring Boot, Docker).
+- **IoT-based Gym Management System:** Built a production-grade microservices system including Auth, User, Workout, Nutrition, Billing, Notification, and API Gateway services..
 - **Spring Boot Security Platform with JWT:** Secure authentication/authorization with JWT and RBAC.
-- **End-to-End CI/CD on AWS:** Automated build, test, and deploy lifecycle for Java backend apps.
+- **End-to-End CI/CD on AWS:** Built automated CI/CD pipelines for backend services using GitHub Actions, Docker, Kubernetes.
 
 ---
 
