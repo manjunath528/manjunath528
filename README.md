@@ -30,7 +30,7 @@ Backend Engineer with 2+ years of experience designing and building scalable mic
 `AWS (EC2,ECS ,ECR, EKS, S3, RDS, IAM)`, `Docker`, `Kubernetes`, `GitLab CI/CD`
 
 **Tools:**  
-`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Swagger`, `OpenAI`
+`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Postman`,`Swagger`, `OpenAI`
 
 ---
 
