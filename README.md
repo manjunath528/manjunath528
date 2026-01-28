@@ -1,48 +1,140 @@
 ![MasterHead](https://github.com/user-attachments/assets/d2345577-f07c-4474-b9db-943830c0b867)
 
-# 👋 Hi, I'm Manjunath Reddy Bollam
+# 👋 Hi, I’m Manjunath Reddy Bollam
 
-**Backend Software Engineer | Java | Spring Boot | Microservices**
+**Backend Software Engineer | Microservices Architect | Java | Spring Boot | Kubernetes**
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Backend Engineer with 2+ years of experience designing and building scalable microservice-based systems. Strong background in event-driven architectures, RESTful APIs, PostgreSQL data modeling, and containerized deployments using Docker. Hands-on experience with Kafka-based workflows, CI/CD pipelines, and cloud-native backend services. Passionate about clean code, ownership, and building reliable systems in fast-paced product environments.
-- 📍 Based in Berlin, Germany
-- 🎓 MSc in Data Analytics, BSBI Berlin (2025)
-- 💬 Reach me: manjunathreddybollam@outlook.com
+Backend Software Engineer with **2+ years of hands-on experience** designing, building, and deploying **production-grade, cloud-native microservices**.
+
+I specialize in:
+- **Event-driven architectures**
+- **Distributed systems**
+- **CI/CD automation**
+- **Containerized deployments on Kubernetes**
+
+I enjoy working close to product problems, thinking in terms of **scalability, resilience, and real-world trade-offs**, not just code.
+
+- 📍 Berlin, Germany  
+- 🎓 MSc in Data Analytics — BSBI Berlin (2025)  
+- 💬 Reach me: **manjunathreddybollam@outlook.com**
+
+---
+
+## 🧩 Core Engineering Focus
+
+- Designing **loosely coupled microservices**
+- Kafka-based **event streaming & async workflows**
+- REST + message-driven communication
+- Production-ready **CI/CD pipelines**
+- Kubernetes deployments (Minikube → Prod-style)
+- Introducing **AI/LLM services into backend systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java`, `Python`, `SQL`
+### Languages
+`Java` · `Python` · `SQL`
 
-**Frameworks & Libraries:**  
-`Spring Boot`, `Spring MVC`, `Spring Security`, `JPA`, `Hibernate`, `Microservices`
+### Backend & Frameworks
+`Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA`  
+`Hibernate` · `REST APIs` · `Microservices`
 
-**Databases:**  
-`PostgreSQL`, `MySQL`, `MongoDB`, `Snowflake`, `ElasticSearch`
+### Messaging & Streaming
+`Apache Kafka` · `Event-Driven Architecture` · `Protobuf`
 
-**Cloud & DevOps:**  
-`AWS (EC2,ECS ,ECR, EKS, S3, RDS, IAM)`, `Docker`, `Kubernetes`, `GitLab CI/CD`
+### Databases
+`PostgreSQL` · `MySQL` · `MongoDB`  
+`Snowflake` · `ElasticSearch`
 
-**Tools:**  
-`IntelliJ`, `Git`, `Gradle`, `Maven`, `JIRA`, `Apache Kafka`, `Postman`,`Swagger`, `OpenAI`
+### Cloud & DevOps
+`Docker` · `Kubernetes` · `Helm`  
+`GitHub Actions` · `GitLab CI/CD`  
+`AWS (EC2, ECS, ECR, EKS, S3, RDS, IAM)`
+
+### Tooling
+`IntelliJ IDEA` · `Git` · `Maven` · `Gradle`  
+`Postman` · `Swagger` · `JIRA`
+
+### AI / LLM (Hands-on)
+`OpenAI APIs` · `AI Agent Services` · `LLM-backed Microservices`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project: Fitness Microservices Platform
 
-- **SpringBoot Web Application:** RESTful web application using Spring Boot and microservices.
-- **IoT-based Gym Management System:** Built a production-grade microservices system including Auth, User, Workout, Nutrition, Billing, Notification, and API Gateway services..
-- **Spring Boot Security Platform with JWT:** Secure authentication/authorization with JWT and RBAC.
-- **End-to-End CI/CD on AWS:** Built automated CI/CD pipelines for backend services using GitHub Actions, Docker, Kubernetes.
+> **A real-world, production-style microservices system built end-to-end**
+
+### Architecture Highlights
+- API Gateway
+- Auth Service
+- User Service
+- Workout Service
+- Nutrition Service
+- Billing Service
+- Notification Service
+- **AI Agent Service (Kafka + LLM-powered insights)**
+- PostgreSQL per service
+- Kafka for async communication
+- Docker + Kubernetes (Minikube)
+- GitHub Actions CI/CD
+
+### Key Engineering Concepts Demonstrated
+- Event-driven communication using Kafka
+- Database-per-service pattern
+- CI → Docker → Kubernetes automation
+- Secure secrets handling
+- AI integration as an independent microservice
+- Rolling deployments via image updates
+
+📌 **This project answers one core question:**
+> *How does real production code move from GitHub → Docker → Kubernetes automatically?*
 
 ---
 
+## 🤖 AI Agent Service (Recent Work)
+
+Built a dedicated **AI Agent microservice** that:
+
+- Consumes events from:
+  - User Service
+  - Workout Service
+  - Nutrition Service
+- Processes events using:
+  - Rule-based logic (baseline)
+  - LLM-backed decision making (extensible)
+- Produces:
+  - Personalized fitness recommendations
+  - Nutrition insights
+  - Smart feedback loops
+
+This service is designed to evolve from **rules → AI-assisted → agentic workflows**.
+
+---
+
+## 🧪 What I Care About as an Engineer
+
+- Clean boundaries between services
+- Observability & debuggability
+- Deployment confidence
+- Scalability over premature optimization
+- Learning systems internals, not just frameworks
+
+---
+
+## 📈 What I’m Building Next
+
+- User Goals & Plans Service (Product thinking)
+- AI-powered recommendation loops
+- Long-term user behavior analytics
+- Multi-environment Kubernetes deployments
+- Production-grade monitoring (Prometheus / Grafana)
+
+---
 ## 📄 Resume
 
 - [Resume](https://drive.google.com/file/d/11GmcjOrCKRhYP7g8NHjX573coddyRJGN/view?usp=sharing)
