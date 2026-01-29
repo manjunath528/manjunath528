@@ -80,7 +80,8 @@ I enjoy working close to product problems, thinking in terms of **scalability, r
 - **AI Agent Service (Kafka + LLM-powered insights)**
 - PostgreSQL per service
 - Kafka for async communication
-- Docker + Kubernetes (Minikube)
+- Docker(Containers + Registary)
+- Kubernetes (Minikube)
 - GitHub Actions CI/CD
 
 ### Key Engineering Concepts Demonstrated
